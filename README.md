@@ -1,8 +1,9 @@
 ### Hi there 👋
+<!--
 
 <img src="https://www.codewars.com/users/serhii73/badges/large">
 
-<!--
+
 **serhii73/serhii73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
